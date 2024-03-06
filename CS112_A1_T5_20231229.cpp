@@ -3,9 +3,6 @@
  This game's purpose it that each player removes a pile of non-zero square coins and the winner
  is the player who removes tha last coin.
  Author: Maria Atef Edward
- ID: 20231229
- Version: 1.0
- Date of creating it : 1/3/2024 
  */
 
 #include <iostream>
